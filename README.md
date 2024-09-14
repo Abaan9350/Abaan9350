@@ -1,7 +1,3 @@
-Here’s a revised version of your README with the updates:
-
----
-
 <h1 align="center">Hi 👋, I'm Abdurrahman Sarguroh</h1>  
 <h3 align="center">An Aspiring Computer Science Engineer</h3>
 
