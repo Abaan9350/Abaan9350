@@ -16,7 +16,7 @@
 I’m open to collaborating with anyone who’s interested in web development, Python projects, or any innovative tech ideas. Whether you're seeking help or offering it, feel free to reach out!
 
 ### 👨‍💻 GitHub Projects
-Explore my other projects: [https://github.com/Abaan9350](https://github.com/Abaan9350)
+Explore my other projects: [https://github.com/Abaan9350](https://github.com/Abaan9350?tab=repositories)
 
 ### 📫 How to reach me
 - Email: **abaan9350@gmail.com**
