@@ -19,7 +19,7 @@ Explore my other projects: [https://github.com/Abaan9350](https://github.com/Aba
 
 ### 📫 How to reach me
 - Email: **abaan9350@gmail.com**
-- LinkedIn: [Abdurrahman Sarguroh](https://www.linkedin.com/in/abdurrahman-sarguroh/)
+- LinkedIn: [Abdurrahman Sarguroh](https://www.linkedin.com/in/abaan9350/)
 - Twitter: [@abaandone](https://twitter.com/abaandone)
 
 ---
