@@ -23,5 +23,3 @@ Explore my other projects: [https://github.com/Abaan9350](https://github.com/Aba
 - Twitter: [@abaandone](https://twitter.com/abaandone)
 
 ---
-
-Let me know if you'd like further adjustments or a cooler name for the Doctors Project!
