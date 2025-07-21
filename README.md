@@ -5,6 +5,7 @@
 
 ### 🚀 Current Projects
 - **[NoteShare](https://abaan9350.github.io/NoteShare/)**: A platform for managing notes and sharing resources with classmates.
+- **[n8n Projects](https://abaan9350.github.io/n8n-workflows/)**: A compilation of my n8n workflows that tackle day to day problems.
 - **Mentor-Mentee Dashboard**: A system designed to streamline mentor-mentee interactions, attendance tracking, and data management.
 - **BringMeLive**: An e-commerce website creation service, offering domain hosting and payment integration for clients.
 - **[AGUA MarketSpace](https://decentralised-marketspace.vercel.app/)**: A decentralized marketplace built using blockchain, focused on secure, peer-to-peer digital trade without middlemen.
