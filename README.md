@@ -21,7 +21,5 @@ Explore my other projects: [Click Here!!](https://github.com/Abaan9350?tab=repos
 
 ### 📫 How to reach me
 - Email: **abaan9350@gmail.com**
-- LinkedIn: [Abdurrahman Sarguroh](https://www.linkedin.com/in/abaan9350/)
-- Twitter: [@abaandone](https://twitter.com/abaandone)
 
 ---
