@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdurrahman Sarguroh</h1>  
+<h1 align="center">Hi 👋, I'm Abdurrahman</h1>  
 <h3 align="center">An Aspiring Computer Science Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abaan9350&label=Profile%20views&color=0e75b6&style=flat" alt="abaan9350" /> </p>
