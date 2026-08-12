@@ -7,7 +7,7 @@
 
 ### 🚀 Current Projects
 
-- **Telegram Automation Ecosystem**: A collection of personal productivity automations connecting Telegram, Python, APIs, and external services to automate everyday tasks.
+- **[Telegram Automation Ecosystem](https://github.com/Abaan9350/telegram-automations)**: A collection of personal productivity automations connecting Telegram, Python, APIs, and external services to automate everyday tasks.
 
 - **[n8n Automation Workflows](https://github.com/Abaan9350/n8n-workflows)**: A collection of n8n workflows designed to automate repetitive day-to-day tasks, notifications, data processing, and productivity workflows.
 
