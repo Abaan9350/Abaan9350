@@ -7,13 +7,9 @@
 
 ### 🚀 Current Projects
 
-- **Telegram Expense Tracker**: A personal finance automation system that uses Telegram to record expenses and income, processes messages with AI, and stores structured data in Google Sheets.
-
 - **Telegram Automation Ecosystem**: A collection of personal productivity automations connecting Telegram, Python, APIs, and external services to automate everyday tasks.
 
 - **[n8n Automation Workflows](https://github.com/Abaan9350/n8n-workflows)**: A collection of n8n workflows designed to automate repetitive day-to-day tasks, notifications, data processing, and productivity workflows.
-
-- **LinkedIn Automation**: A Python and Selenium based automation project for interacting with LinkedIn through browser automation, hosted remotely for on-demand execution.
 
 - **[NoteShare](https://abaan9350.github.io/NoteShare/)**: A platform for managing notes and sharing educational resources with classmates.
 
