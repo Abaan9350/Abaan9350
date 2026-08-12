@@ -1,25 +1,42 @@
-<h1 align="center">Hi 👋, I'm Abdurrahman</h1>  
-<h3 align="center">SAP Analyst | ABAP Developer</h3>
+<h1 align="center">Hi 👋, I'm Abdurrahman</h1>
+<h3 align="center">SAP Analyst | Automation & ABAP Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abaan9350&label=Profile%20views&color=0e75b6&style=flat" alt="abaan9350" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=abaan9350&label=Profile%20views&color=0e75b6&style=flat" alt="abaan9350" />
+</p>
 
 ### 🚀 Current Projects
-- **[NoteShare](https://abaan9350.github.io/NoteShare/)**: A platform for managing notes and sharing resources with classmates.
-- **[n8n Projects](https://github.com/Abaan9350/n8n-workflows)**: A compilation of my n8n workflows that tackle day to day problems.
+
+- **Telegram Expense Tracker**: A personal finance automation system that uses Telegram to record expenses and income, processes messages with AI, and stores structured data in Google Sheets.
+
+- **Telegram Automation Ecosystem**: A collection of personal productivity automations connecting Telegram, Python, APIs, and external services to automate everyday tasks.
+
+- **[n8n Automation Workflows](https://github.com/Abaan9350/n8n-workflows)**: A collection of n8n workflows designed to automate repetitive day-to-day tasks, notifications, data processing, and productivity workflows.
+
+- **LinkedIn Automation**: A Python and Selenium based automation project for interacting with LinkedIn through browser automation, hosted remotely for on-demand execution.
+
+- **[NoteShare](https://abaan9350.github.io/NoteShare/)**: A platform for managing notes and sharing educational resources with classmates.
+
 - **Mentor-Mentee Dashboard**: A system designed to streamline mentor-mentee interactions, attendance tracking, and data management.
-- **BringMeLive**: An e-commerce website creation service, offering domain hosting and payment integration for clients.
-- **[AGUA MarketSpace](https://decentralised-marketspace.vercel.app/)**: A decentralized marketplace built using blockchain, focused on secure, peer-to-peer digital trade without middlemen.
 
 ### 🛠 Skills
-- **Languages & Tools**: MERN stack (MongoDB, Express, React, Node.js), Python, Java, Web Development, SAP.
+
+- **Programming**: Java, Python, JavaScript
+- **Automation**: Python Automation, Selenium, n8n, APIs, Telegram Bots
+- **Web Development**: HTML, CSS, JavaScript, MERN Stack
+- **Enterprise Technologies**: SAP, ABAP
+- **Tools & Platforms**: Git, GitHub, Google Sheets, Render
 
 ### 🤝 Looking for Collaborations
-I’m open to collaborating with anyone who’s interested in web development, Python projects, or any innovative tech ideas. Whether you're seeking help or offering it, feel free to reach out!
+
+I'm open to collaborating on automation, web development, Python projects, SAP/ABAP, and innovative technology projects. Whether you're looking to build something together or have an interesting idea, feel free to reach out!
 
 ### 👨‍💻 GitHub Projects
-Explore my other projects: [Click Here!!](https://github.com/Abaan9350?tab=repositories)
+
+Explore my other projects:
+
+[Click Here!!](https://github.com/Abaan9350?tab=repositories)
 
 ### 📫 How to reach me
-- Email: **abaan9350@gmail.com**
 
----
+- Email: **abaan9350@gmail.com**
