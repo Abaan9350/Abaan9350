@@ -29,9 +29,7 @@ I'm open to collaborating on automation, web development, Python projects, SAP/A
 
 ### 👨‍💻 GitHub Projects
 
-Explore my other projects:
-
-[Click Here!!](https://github.com/Abaan9350?tab=repositories)
+Explore my other projects: [Click Here!!](https://github.com/Abaan9350?tab=repositories)
 
 ### 📫 How to reach me
 
